@@ -1,9 +1,9 @@
-import { useStyleTag } from "D:/办公/workspace_thpower/开发者平台/项目开发文档/api-doc/node_modules/vuepress-plugin-components/lib/client/composables";
+import { useStyleTag } from "D:/学习/learn-doc/learn-doc/node_modules/vuepress-plugin-components/lib/client/composables";
 import { h } from "vue";
 import { defineClientConfig } from "@vuepress/client";
-import Badge from "D:/办公/workspace_thpower/开发者平台/项目开发文档/api-doc/node_modules/vuepress-plugin-components/lib/client/components/Badge";
-import FontIcon from "D:/办公/workspace_thpower/开发者平台/项目开发文档/api-doc/node_modules/vuepress-plugin-components/lib/client/components/FontIcon";
-import BackToTop from "D:/办公/workspace_thpower/开发者平台/项目开发文档/api-doc/node_modules/vuepress-plugin-components/lib/client/components/BackToTop";
+import Badge from "D:/学习/learn-doc/learn-doc/node_modules/vuepress-plugin-components/lib/client/components/Badge";
+import FontIcon from "D:/学习/learn-doc/learn-doc/node_modules/vuepress-plugin-components/lib/client/components/FontIcon";
+import BackToTop from "D:/学习/learn-doc/learn-doc/node_modules/vuepress-plugin-components/lib/client/components/BackToTop";
 
 
 export default defineClientConfig({
